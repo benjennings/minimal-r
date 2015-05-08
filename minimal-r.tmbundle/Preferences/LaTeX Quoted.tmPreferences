@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>LaTeX Quoted</string>
+	<key>scope</key>
+	<string>string.quoted.double.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#0000000D</string>
+	</dict>
+	<key>uuid</key>
+	<string>319F5409-EEF5-4016-BA55-0DE76C87013B</string>
+</dict>
+</plist>

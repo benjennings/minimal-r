@@ -2,18 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>changed</key>
+	<key>name</key>
+	<string>Comment</string>
+	<key>scope</key>
+	<string>comment</string>
+	<key>settings</key>
 	<dict>
-		<key>description</key>
-		<string>minimal-r
-
-2015-05-07
-
-a very minimal theme, with Reeder influences</string>
+		<key>foreground</key>
+		<string>#999988</string>
 	</dict>
-	<key>isDelta</key>
-	<true/>
 	<key>uuid</key>
-	<string>9BF63A15-0F39-4E80-9E88-25714C72C39B</string>
+	<string>4A760196-14B0-4E91-9CA8-CEA9928A57C7</string>
 </dict>
 </plist>

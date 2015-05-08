@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>LaTeX Emph</string>
+	<key>scope</key>
+	<string>meta.function.emph.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>fontSize</key>
+		<string>0.9em</string>
+	</dict>
+	<key>uuid</key>
+	<string>2D729DE5-EAEE-4452-B4F4-922E939B7425</string>
+</dict>
+</plist>

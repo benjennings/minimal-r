@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Markdown Unnumbered List</string>
+	<key>scope</key>
+	<string>markup.list.unnumbered</string>
+	<key>settings</key>
+	<dict>
+		<key>fontName</key>
+		<string>Inconsolata</string>
+		<key>foreground</key>
+		<string>#898989</string>
+	</dict>
+	<key>uuid</key>
+	<string>F8DBBD8B-42C1-4A31-85EF-144A183175D1</string>
+</dict>
+</plist>

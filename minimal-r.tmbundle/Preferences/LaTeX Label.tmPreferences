@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>LaTeX Label</string>
+	<key>scope</key>
+	<string>meta.definition.label.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>fontName</key>
+		<string>Inconsolata</string>
+		<key>fontSize</key>
+		<string>0.95em</string>
+	</dict>
+	<key>uuid</key>
+	<string>3A1399B6-7443-4796-9FAE-9683F98D7C36</string>
+</dict>
+</plist>
