@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>LaTeX Environment</string>
+	<string>LaTeX Paragraph</string>
 	<key>scope</key>
-	<string>meta.function.environment.general</string>
+	<string>meta.function.section.paragraph.latex</string>
 	<key>settings</key>
 	<dict>
-		<key>background</key>
-		<string>#0000000D</string>
+		<key>fontName</key>
+		<string>Inconsolata</string>
+		<key>fontSize</key>
+		<string>1.55em</string>
 	</dict>
 	<key>uuid</key>
-	<string>000963B7-2EF2-4C5C-8D51-59FE3A7466F0</string>
+	<string>9C7A7B7D-5D6D-423B-BCB0-A48F21356181</string>
 </dict>
 </plist>

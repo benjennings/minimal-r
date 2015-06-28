@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>LaTeX Subsection</string>
+	<string>LaTeX Part</string>
 	<key>scope</key>
-	<string>meta.function.section.subsection.latex</string>
+	<string>meta.function.section.part.latex</string>
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
 		<string>Inconsolata</string>
 		<key>fontSize</key>
-		<string>1.10em</string>
+		<string>2.8em</string>
 	</dict>
 	<key>uuid</key>
-	<string>529C7F08-8013-4A53-B7A1-260745D6A80C</string>
+	<string>2BF97455-DEA5-4B45-A6DE-C4122E35478D</string>
 </dict>
 </plist>

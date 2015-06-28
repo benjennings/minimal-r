@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ora@cebgntbavfg.pb.hx</string>
+	<key>contactName</key>
+	<string>Ben Jennings</string>
+	<key>description</key>
+	<string>A minimal theme for Textmate. Kind on the eyes.</string>
+	<key>name</key>
+	<string>Minimal_R</string>
+	<key>uuid</key>
+	<string>B688A945-4E32-4330-8BF6-BBD18D348A2A</string>
+</dict>
+</plist>

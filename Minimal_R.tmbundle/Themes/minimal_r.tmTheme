@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Ben Jennings</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#dcdacf</string>
+		<key>divider</key>
+		<string>#b6b3ab</string>
+		<key>foreground</key>
+		<string>#9f9e99</string>
+		<key>selectionBackground</key>
+		<string>#f0efeb</string>
+		<key>selectionForeground</key>
+		<string>#797872</string>
+	</dict>
+	<key>name</key>
+	<string>Minimal_R</string>
+	<key>semanticClass</key>
+	<string>theme.light.minimal_r</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#f9f8f4</string>
+				<key>caret</key>
+				<string>#000000</string>
+				<key>foreground</key>
+				<string>#51504a</string>
+				<key>invisibles</key>
+				<string>#d3d3d3</string>
+				<key>lineHighlight</key>
+				<string>#00000012</string>
+				<key>selection</key>
+				<string>#bcd5fa</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>9130A1DD-EFCA-49D5-A31F-7A40727D8175</string>
+</dict>
+</plist>

@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Markdown Italic</string>
+	<string>Markdown Code</string>
 	<key>scope</key>
-	<string>markup.italic</string>
+	<string>markup.raw.inline</string>
 	<key>settings</key>
 	<dict>
+		<key>background</key>
+		<string>#0000000d</string>
 		<key>fontName</key>
-		<string>Menlo</string>
+		<string>Anonymous Pro</string>
 		<key>fontSize</key>
-		<string>14</string>
+		<string>0.85em</string>
 		<key>fontStyle</key>
-		<string>italic</string>
+		<string>bold</string>
+		<key>foreground</key>
+		<string>#51504a</string>
 	</dict>
 	<key>uuid</key>
-	<string>7C630D10-6E8E-4E15-8C57-8A749C1896AF</string>
+	<string>2E584066-85F3-40E1-9645-C1C240F2735E</string>
 </dict>
 </plist>

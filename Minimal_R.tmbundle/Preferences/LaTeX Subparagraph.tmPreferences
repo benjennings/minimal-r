@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Markdown Separator</string>
+	<string>LaTeX Subsection</string>
 	<key>scope</key>
-	<string>meta.separator.markdown</string>
+	<string>meta.function.section.subsection.latex</string>
 	<key>settings</key>
 	<dict>
-		<key>background</key>
-		<string>#dcdacf</string>
-		<key>foreground</key>
-		<string>#9f9e99</string>
+		<key>fontName</key>
+		<string>Inconsolata</string>
+		<key>fontSize</key>
+		<string>1.0em</string>
 	</dict>
 	<key>uuid</key>
-	<string>475AB502-7994-4A4D-A2B5-E5313C0AB7B7</string>
+	<string>529C7F08-8013-4A53-B7A1-260745D6A80C</string>
 </dict>
 </plist>

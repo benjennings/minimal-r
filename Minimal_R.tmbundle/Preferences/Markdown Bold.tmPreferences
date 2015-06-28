@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>LaTeX Footnote</string>
+	<string>Markdown Bold</string>
 	<key>scope</key>
-	<string>meta.footnote.latex, support.function.footnote.latex, punctuation.definition.footnote.begin.latex, punctuation.definition.footnote.end.latex</string>
+	<string>markup.bold</string>
 	<key>settings</key>
 	<dict>
-		<key>background</key>
-		<string>#0000000D</string>
 		<key>fontName</key>
-		<string>Inconsolata</string>
+		<string>Menlo</string>
 		<key>fontSize</key>
 		<string>0.85em</string>
+		<key>fontStyle</key>
+		<string>bold</string>
 	</dict>
 	<key>uuid</key>
-	<string>9633203E-748B-467B-B299-BE368BDF42C6</string>
+	<string>8E8E15D8-47E6-4E95-93F1-DE54297D73C5</string>
 </dict>
 </plist>

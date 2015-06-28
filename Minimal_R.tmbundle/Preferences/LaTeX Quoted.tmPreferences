@@ -3,19 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Markdown Bold</string>
+	<string>LaTeX Quoted</string>
 	<key>scope</key>
-	<string>markup.bold</string>
+	<string>string.quoted.double.latex</string>
 	<key>settings</key>
 	<dict>
-		<key>fontName</key>
-		<string>Menlo</string>
-		<key>fontSize</key>
-		<string>14</string>
-		<key>fontStyle</key>
-		<string>bold</string>
+		<key>background</key>
+		<string>#0000000d</string>
 	</dict>
 	<key>uuid</key>
-	<string>8E8E15D8-47E6-4E95-93F1-DE54297D73C5</string>
+	<string>319F5409-EEF5-4016-BA55-0DE76C87013B</string>
 </dict>
 </plist>
